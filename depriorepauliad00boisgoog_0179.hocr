@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./depriorepauliad00boisgoog_0179.png"; bbox 0 0 3559 5609; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3308 20 3556 972">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3308 20 3556 972">
+     <span class='ocr_line' id='line_1_1' title="bbox 3308 20 3556 972; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 3308 20 3556 972; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2339 3696 3272 3883">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2339 3696 3272 3883">
+     <span class='ocr_line' id='line_1_2' title="bbox 2339 3696 3272 3883; baseline 0.006 -47"><span class='ocrx_word' id='word_1_2' title='bbox 2339 3696 2617 3836; x_wconf 48' lang='lat' dir='ltr'>stof-</span> <span class='ocrx_word' id='word_1_3' title='bbox 2664 3760 2847 3852; x_wconf 52' lang='grc' dir='ltr'>πε,</span> <span class='ocrx_word' id='word_1_4' title='bbox 2891 3756 3132 3883; x_wconf 69' lang='lat'>“7⁴4</span> <span class='ocrx_word' id='word_1_5' title='bbox 3232 3804 3272 3883; x_wconf 83' lang='lat'>·.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2308 5243 3203 5385">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2308 5243 3203 5385">
+     <span class='ocr_line' id='line_1_3' title="bbox 2308 5243 3203 5385; baseline 0 -43"><span class='ocrx_word' id='word_1_6' title='bbox 2308 5276 2313 5339; x_wconf 59' lang='lat'>⁹,</span> <span class='ocrx_word' id='word_1_7' title='bbox 2434 5302 2637 5354; x_wconf 71' lang='lat' dir='ltr'>Diqitized</span> <span class='ocrx_word' id='word_1_8' title='bbox 2660 5243 3146 5385; x_wconf 58' lang='lat' dir='ltr'>byGOOgIC</span> <span class='ocrx_word' id='word_1_9' title='bbox 3195 5273 3203 5274; x_wconf 15' lang='lat'><em>7</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1370 5000 2332 5566">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1370 5000 2332 5566">
+     <span class='ocr_line' id='line_1_4' title="bbox 1370 5000 2332 5566; baseline 0 43"><span class='ocrx_word' id='word_1_10' title='bbox 1370 5000 2332 5566; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
